@@ -96,7 +96,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         padding: 10,
-        marginTop: 20,
+        marginTop: 40,
     },
     backIcon: {
         position: 'absolute',
