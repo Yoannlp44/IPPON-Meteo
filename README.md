@@ -1,6 +1,6 @@
 # IPPON-Meteo
 
-To make the app work, you need to configure your API key in the `config.js` file.
+To make the app work, you need to configure your API key in the `config.js` file, create your API key on [OpenWeatherMap](https://openweathermap.org/api).
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
