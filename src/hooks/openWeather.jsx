@@ -32,7 +32,6 @@ export const useOpenWeather = () => {
     };
 
     const getForecast = async (city) => {
-        // get french response
         const url = `/forecast?q=${city}&units=metric&lang=fr`;
         return await request('get', url);
     };
